@@ -1,1 +1,2 @@
 # facerecognition
+Face recognition system matches people's faces and identifies their identity, indicating where they are located and at what time after performing facial mapping. It is utilized in security and attendance systems.
